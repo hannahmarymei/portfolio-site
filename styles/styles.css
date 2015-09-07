@@ -1,0 +1,209 @@
+body {
+    background-color: #fff;
+}
+
+.navbar .container {
+    background: #1b1b1b;
+    width: 100%;
+}
+
+.navbar {
+    border: 0 !important;
+}
+
+.navbar ul {
+    background-color: #1b1b1b;
+    padding: 25px;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline;
+    padding: 10px;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+.jumbotron {
+    text-align: center;
+    border: 0;
+    overflow: hidden;
+    margin-bottom: 0 !important;
+}
+
+.jumbotron h1 {
+    font-family: 'Covered By Your Grace', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.jumbotron p {
+    letter-spacing: 1px;
+}
+
+.jumbotron img {
+    width: 40%;
+    margin-top: 5%;
+}
+
+section {
+  padding-top: 50px;
+  margin-top:-50px;
+}
+
+.about {
+  height: 600px;
+  background: url(../assets/img/trees.jpg) no-repeat center center fixed; 
+  background-size: cover;
+  text-align: center;
+}
+
+.about h1 {
+  color: #fff;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 45px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 50px;
+}
+
+.about p {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    padding: 20px;
+}
+
+.row {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.row h1 {
+  margin-bottom: 40px;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+.glyphicon {
+    font-size: 40px;
+}
+
+.row .btn {
+    margin: 30px;
+}
+
+.contact h1 {
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.contact input {
+  display: block;
+  padding: 15px;
+  width: 60%;
+  margin: 20px auto;
+  border: 0;
+  border-radius: 5px;
+}
+
+
+.contact .container {
+    background: #ddd;
+    text-align: center;
+    padding: 30px 0;
+    height: 650px;
+    width: 100%;
+}
+
+input[type='submit'] {
+    width: 200px;
+    margin-top: 30px;
+}
+
+input[type='textarea'] {
+    height: 200px;
+}
+
+.copyright {
+  float: left;
+}
+
+
+.footer {
+  border: 0 !important;
+  background: #1b1b1b;
+  padding: 0 15px;
+  width: 100%;
+  text-align: right;
+}
+
+.footer ul {
+  background-color: #1b1b1b;
+  padding: 25px;
+  width: 100%;
+  margin: 0;
+}
+
+.footer li {
+  display: inline;
+  color: #FFF;
+  padding: 0 10px;
+}
+
+.tile {
+  padding: 20px;
+}
+
+
+.social {
+  color: white;
+}
+
+
+.navbar a:hover {
+  color: #bbb;
+  text-decoration: none;
+}
+
+.my-btn {
+  background-image: linear-gradient(to bottom, #FF8000 0, #bd5f00 100%) !important;
+  border: 0 !important;
+}
+
+.my-btn:hover {
+  background-color: #bd5f00 !important;
+}
+
+.portfolio {
+  margin: 150px 0;
+}
+
+.thumbnail {
+  margin: 20px auto;
+  padding: 15px;
+  width: 80%;
+  text-align: center;
+}
+
+.success .mandatory-email .mandatory-message {
+  color: green;
+  background-color: red;
+}
+
+.me {
+  margin-top: 60px;
+  border: 8px solid white;
+  border-radius: 180px;
+}
